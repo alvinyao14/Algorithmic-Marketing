@@ -1,5 +1,5 @@
 # Algorithmic Marketing
-Final Project for the University of Chicago's MS in Applied Data Science Program Course: Data Science for Algorithmic Marketing
+This project is a section of the final project for the University of Chicago's MS in Applied Data Science Program Course: Data Science for Algorithmic Marketing. The team consisted of Cassandra Chen, Danielle Killeen, Jane Lee, and Alvin Yao.
 
 ## Motivation
 We aimed to analyze audio features from the Billboard Hot 100 Songs of the past two decades to uncover insights about what makes a hit record.
@@ -33,6 +33,8 @@ The clustering process was completed in collaboration with teammate [Cassandra C
 ----
 ## Profile Trend Forecasts
 
-For model selection, we compared ARIMA (Autoregressive Integrated Moving Average) versus HMM (Hidden Markov Models), finding HMM to have a more favorable RMSE score of 6.74 compared to 8.44 in 5-fold cross-validation. In fine-tuning the HMM model, I compared the performance of 2-5 hidden states, finding 4 hidden states as the most optimal log-likelihood. From that, we predicted the proportion (number of songs) of each profile on the next 20 weekly Billboard Hot 100 charts as a means to forecast the trend of each profile:
+For model selection, we compared ARIMA (Autoregressive Integrated Moving Average) versus HMM (Hidden Markov Models), finding HMM to have a more favorable RMSE score of 6.74 compared to 8.44 in 5-fold cross-validation. In tuning the HMM model, I compared the performance of 2-5 hidden states, finding 4 hidden states as the most optimal log-likelihood. From that, we predicted the proportion (number of songs) of each profile on the next 20 weekly Billboard Hot 100 charts as a means to forecast the trend of each profile:
 
 ![alt text](Images/TrendForecast.png "Cluster Profiles Audio Features")
+
+The Profile Trend Forecasting was completed by the author of this repository.
