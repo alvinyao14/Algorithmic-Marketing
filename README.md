@@ -28,7 +28,7 @@ The three profiles we've described are as follows:
 
 **Atmospheric Tunes**: With tracks like Everything I Wanted, She, and Ilomilo, this cluster is defined by atmospheric, melodic, and highly instrumental music. It attracts fans of lofi, chillwave, and instrumental electronic music, offering an uplifting yet relaxing soundscape that blends well into study sessions, creative work, or laid-back social settings.
 
-The clustering process was completed in collaboration with teammate [Cassandra Chen](https://hnchen.com/)
+The clustering process was completed in collaboration with teammate [Cassandra Chen](https://hnchen.com/).
 
 ----
 ## Profile Trend Forecasts
